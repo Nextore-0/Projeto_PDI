@@ -1,0 +1,12 @@
+Para iniciar 
+
+1. py -3.12 -m venv venv
+2. venv\Scripts\activate
+3. pip install -r requirements.txt
+
+Rodar o programa fora do VScode se não as janelas não abrem
+lembrar de estar dentro da pasta do projeto quando usar o comando a baixo
+e o video tem que estar na pasta tambem
+
+
+1. venv\Scripts\python.exe Novoteste.py
